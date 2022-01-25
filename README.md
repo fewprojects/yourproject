@@ -4,9 +4,10 @@
 An HTML &amp; CSS boilerplate webpage to showcase your github dev projects easily and beautifully
 
 ## demo
-To see live example of fluid typography, [click here]()
+To see live example of 'Your Project' , [click here]()
 
-## What is 'Your Project'
+## What is 'Your Project' 
+
 It is a simple one page HTML, CSS web template to showcase any github dev project of yours
 
 -Typography is fluid and lucid, so that you don't have to worry about multiple screens 
