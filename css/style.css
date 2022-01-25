@@ -18,8 +18,9 @@ main .container {
   align-items: center;
   height: 100vh;
 }
+
 main .container .introduction .logo img {
-  width: 150px;
+  width: 100px;
 }
 main .container .introduction .project_name h1 {
   font-weight: 700;
@@ -37,7 +38,7 @@ main .container .introduction .paragraph p {
   text-align: center;
   width: 75vw;
 }
-main .container .introduction .buttons {
+main .container .introduction .button {
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -48,7 +49,7 @@ main .container .introduction .buttons {
   align-items: center;
 }
 
-main .container .introduction .buttons a {
+main .container .introduction .btn-download a {
   margin: 0rem 1rem;
   font-weight: 300;
   font-size: calc(0.55rem + 0.5vw);
@@ -57,9 +58,56 @@ main .container .introduction .buttons a {
   padding: 0.75rem 1.5rem;
   border-radius: 5px;
   /* Change colors according to your theme */
-  background-color: #121212;
+  background-color: #376aef;
   color: #f3f3f3;
 }
+main .container .introduction .btn-github a {
+  margin: 0rem 1rem;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  font-size: calc(0.55rem + 0.5vw);
+  line-height: calc(1rem + 0.675vw);
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  /* Change colors according to your theme */
+  background-color: transparent;
+  color: #121212;
+}
+main .container .introduction .button a:hover {
+  /* background-color: black; */
+  transition: linear;
+}
+main .container .introduction .code {
+  font-family: monospace;
+  background-color: #ccc;
+  border-radius: 3px;
+  font-size: inherit;
+  color: #333;
+  margin: 0.5em 0;
+  padding: 0.8rem 0.5rem;
+  font-size: calc(0.55rem + 0.5vw);
+  line-height: calc(1rem + 0.675vw);
+}
 
-main .container .introduction .code pre{
+main .container .footer-icons nav {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+}
+
+main .container .footer-icons nav p {
+  margin: 2rem 1rem;
+}
+
+main .container .footer-icons nav p a {
+  color: #aaa;
+}
+main .container .footer-icons nav p a:hover {
+  color: #376aef;
+  transition: 200ms linear;
 }
