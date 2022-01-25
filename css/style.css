@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+body {
+  font-size: 1rem;
+  font-family: "Lato", sans-serif;
+  line-height: 1.25;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+
+main .container {
+  padding: 2rem;
+  display: block;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+}
+main .container .introduction .logo img {
+  width: 150px;
+}
+main .container .introduction .project_name h1 {
+  font-weight: 700;
+  font-size: calc(1.5rem + 1.5vw);
+}
+main .container .introduction .project_tagline h3 {
+  font-size: calc(1rem + 1vw);
+
+  font-weight: 400;
+}
+main .container .introduction .paragraph p {
+  font-size: calc(0.675rem + 0.5vw);
+  line-height: calc(1rem + 0.675vw);
+  font-weight: 300;
+  text-align: center;
+  width: 75vw;
+}
+main .container .introduction .buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+}
+
+main .container .introduction .buttons a {
+  margin: 0rem 1rem;
+  font-weight: 300;
+  font-size: calc(0.55rem + 0.5vw);
+  line-height: calc(1rem + 0.675vw);
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  /* Change colors according to your theme */
+  background-color: #121212;
+  color: #f3f3f3;
+}
+
+main .container .introduction .code pre{
+}
