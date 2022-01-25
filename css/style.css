@@ -19,26 +19,27 @@ main .container {
   height: 100vh;
 }
 
-main .container .introduction .logo img {
+main .container .box .logo img {
   width: 100px;
 }
-main .container .introduction .project_name h1 {
+main .container .box .project_name h1 {
   font-weight: 700;
   font-size: calc(1.5rem + 1.5vw);
 }
-main .container .introduction .project_tagline h3 {
+main .container .box .project_tagline h3 {
   font-size: calc(1rem + 1vw);
 
   font-weight: 400;
 }
-main .container .introduction .paragraph p {
+main .container .box .paragraph p {
   font-size: calc(0.675rem + 0.5vw);
   line-height: calc(1rem + 0.675vw);
-  font-weight: 300;
+  font-weight: 400;
+  color: #555555;
   text-align: center;
   width: 75vw;
 }
-main .container .introduction .button {
+main .container .box .button {
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -49,9 +50,9 @@ main .container .introduction .button {
   align-items: center;
 }
 
-main .container .introduction .btn-download a {
+main .container .box .btn-download a {
   margin: 0rem 1rem;
-  font-weight: 300;
+  font-weight: bold;
   font-size: calc(0.55rem + 0.5vw);
   line-height: calc(1rem + 0.675vw);
   text-decoration: none;
@@ -61,9 +62,9 @@ main .container .introduction .btn-download a {
   background-color: #376aef;
   color: #f3f3f3;
 }
-main .container .introduction .btn-github a {
+main .container .box .btn-github a {
   margin: 0rem 1rem;
-  font-weight: 400;
+  font-weight: bold;
   font-family: "Lato", sans-serif;
   font-size: calc(0.55rem + 0.5vw);
   line-height: calc(1rem + 0.675vw);
@@ -73,16 +74,16 @@ main .container .introduction .btn-github a {
   background-color: transparent;
   color: #121212;
 }
-main .container .introduction .button a:hover {
-  /* background-color: black; */
-  transition: linear;
+main .container .box .btn-download a:hover {
+  background-color: #4173f0;
+  transition:100ms linear;
 }
-main .container .introduction .code {
+main .container .box .code {
   font-family: monospace;
-  background-color: #ccc;
+  background-color: #ddd;
   border-radius: 3px;
-  font-size: inherit;
   color: #333;
+  font-weight: 300;
   margin: 0.5em 0;
   padding: 0.8rem 0.5rem;
   font-size: calc(0.55rem + 0.5vw);
@@ -110,4 +111,15 @@ main .container .footer-icons nav p a {
 main .container .footer-icons nav p a:hover {
   color: #376aef;
   transition: 200ms linear;
+}
+
+main .container .footer-text p {
+  color: #aaa;
+  font-size: calc(0.55rem + 0.5vw);
+  line-height: calc(1rem + 0.675vw);
+}
+main .container .footer-text p a {
+  font-size: calc(0.55rem + 0.5vw);
+  line-height: calc(1rem + 0.675vw);
+  color: #aaa;
 }
