@@ -76,7 +76,7 @@ main .container .box .btn-github a {
 }
 main .container .box .btn-download a:hover {
   background-color: #4173f0;
-  transition:100ms linear;
+  transition: 100ms linear;
 }
 main .container .box .code {
   font-family: monospace;
