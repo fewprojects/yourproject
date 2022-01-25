@@ -1,5 +1,5 @@
 
-[![N|Solid](https://github.com/fewprojects/alwritey/blob/54111dab4ee4187551229be39597118f76ac5290/logo/alwritey(1).png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/fewprojects/yourproject/blob/7f2e6499267624dda36205cae1c2a50ed8063e6c/img/your_Project_Logo.png)]()
 # Your Project
 An HTML &amp; CSS boilerplate webpage to showcase your github dev projects easily and beautifully
 
