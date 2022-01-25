@@ -27,9 +27,6 @@ It's as simple as you do with any regular Open source project
 
 - You should help it to make it more easier to use for others
 
-```html
-<link rel="stylesheet" href="alwritey.css">
-```
 ## License
 
-MIT
+
