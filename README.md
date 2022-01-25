@@ -2,7 +2,7 @@
 [![N|Solid](https://github.com/fewprojects/yourproject/blob/7f2e6499267624dda36205cae1c2a50ed8063e6c/img/your_Project_Logo.png)]()
 # Your Project
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Create%20showcase%20for %20your%20github%20based%20dev%20projects%20easily%204&url=https://github.com/fewprojects/yourproject/blob/main/README.md&via=theankitnet&hashtags=github,design,projects,dev,developers,coding)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
 An HTML &amp; CSS boilerplate webpage to showcase your github dev projects easily and beautifully
 
