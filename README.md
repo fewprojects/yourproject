@@ -1,7 +1,9 @@
 
 [![N|Solid](https://github.com/fewprojects/yourproject/blob/7f2e6499267624dda36205cae1c2a50ed8063e6c/img/your_Project_Logo.png)]()
 # Your Project
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://www.twitter.com/iamankitupadhay)
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Create%20showcase%20for %20your%20github%20based%20dev%20projects%20easily%204&url=https://github.com/fewprojects/yourproject/blob/main/README.md&via=theankitnet&hashtags=github,design,projects,dev,developers,coding)
+
 An HTML &amp; CSS boilerplate webpage to showcase your github dev projects easily and beautifully
 
 ## demo
