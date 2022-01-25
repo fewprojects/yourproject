@@ -30,4 +30,5 @@ It's as simple as you do with any regular Open source project
 
 ## License
 
+GPL-3.0
 
