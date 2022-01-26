@@ -6,7 +6,7 @@
 
 An HTML &amp; CSS boilerplate webpage to showcase your github dev projects easily and beautifully
 
-## demo
+## Demo
 To see live example of 'Your Project' , [click here](https://your-project.netlify.app/)
 
 ## What is 'Your Project' 
