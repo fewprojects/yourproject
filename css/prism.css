@@ -2,9 +2,8 @@
 https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+bash+git+powershell&plugins=show-language+command-line+toolbar+copy-to-clipboard */
 code[class*="language-"],
 pre[class*="language-"] {
-  color: #000;
+  color: #121212;
   background: 0 0;
-  text-shadow: 0 0px #fff;
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   font-size: 0.8rem;
   border-radius: 5px;
@@ -49,7 +48,7 @@ pre[class*="language-"] {
 }
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-  background: #cecece;
+  background: #dedede;
 }
 :not(pre) > code[class*="language-"] {
   padding: 0.1em;
