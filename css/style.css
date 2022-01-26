@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
 *,
 *:before,
 *:after {
@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: calc(0.775rem + 0.5vw);
   margin: 0 auto;
 }
@@ -31,18 +31,19 @@ main .container .box .logo img {
   width: 100px;
 }
 main .container .box .project_name h1 {
-  font-weight: bold;
+  font-weight: 700;
 }
 main .container .box .project_tagline h3 {
-  font-weight: 400;
+  font-weight: 500;
 }
 main .container .box .paragraph {
   color: #555555;
-  margin: 2rem 0rem;
+  margin: 1rem 0rem;
   /* text-align: center; */
 }
 main .container .box .paragraph p {
-  font-weight: 400;
+  font-weight: 300;
+  line-height: 1.5;
   width: auto;
 }
 main .container .box .button {
@@ -60,7 +61,7 @@ main .container .box .btn-download a {
   color: #f3f3f3;
 }
 main .container .box .btn-github a {
-  font-weight: bold;
+  font-weight: 400;
   padding: 0.75rem 1.5rem;
   border-radius: 5px;
   /* Change colors according to your theme */
@@ -106,7 +107,9 @@ main .container .footer-icons nav p a:hover {
 
 main .container .footer-text p {
   color: #aaa;
+  font-size: 0.8rem;
 }
 main .container .footer-text p a {
   color: #aaa;
+  font-size: 0.8rem;
 }
