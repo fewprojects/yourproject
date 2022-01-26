@@ -42,7 +42,7 @@ main .container .box .button {
 main .container .box .btn-download a {
   margin: 0rem 1rem;
   font-weight: bold;
-  font-size: calc(0.55rem + 0.5vw);
+  font-size: calc(0.7rem + 0.5vw);
   line-height: calc(1rem + 0.675vw);
   text-decoration: none;
   padding: 0.75rem 1.5rem;
