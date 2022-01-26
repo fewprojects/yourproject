@@ -2,7 +2,7 @@
 [![N|Solid](https://github.com/fewprojects/yourproject/blob/7f2e6499267624dda36205cae1c2a50ed8063e6c/img/your_Project_Logo.png)]() 
 # Your Project
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Webpage%20template%20to%20showcase%20your%20github%20dev%20projects%20easily%20and%20beautifully%204&url=https://github.com/fewprojects/yourprojects&via=theankitnet&hashtags=coding,design,templates,gihub,developers) [![N|Solid](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Webpage%20template%20to%20showcase%20your%20github%20dev%20projects%20easily%20and%20beautifully%204&url=https://github.com/fewprojects/yourprojects&via=theankitnet&hashtags=coding,design,templates,gihub,developers) ![N|Solid](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 An HTML &amp; CSS boilerplate webpage to showcase your github dev projects easily and beautifully
 
