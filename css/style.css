@@ -1,23 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 body {
-  font-size: 1rem;
   font-family: "Lato", sans-serif;
-  line-height: 1.25;
+  font-size: calc(0.775rem + 0.5vw);
 }
-main {
-  display: flex;
-  justify-content: center;
-  padding: 2rem;
-}
-
 main .container {
   padding: 2rem;
-  display: block;
-  display: flex;
+  text-align: center;
+  /* display: flex;
   justify-content: center;
   text-align: center;
-  align-items: center;
-  height: 100vh;
+  align-items: center; */
 }
 
 main .container .box .logo img {
@@ -25,34 +17,26 @@ main .container .box .logo img {
 }
 main .container .box .project_name h1 {
   font-weight: 700;
-  font-size: calc(1.5rem + 1.5vw);
+  /* text-align: center; */
+  font-size: calc(2rem + 1.5vw);
 }
 main .container .box .project_tagline h3 {
   font-size: calc(1rem + 1vw);
-
   font-weight: 400;
+  /* text-align: center; */
 }
 main .container .box .paragraph {
-  display: flex;
-  justify-content: center;
   color: #555555;
-  text-align: center;
+  margin: 2rem 0rem;
+  /* text-align: center; */
 }
 main .container .box .paragraph p {
-  font-size: calc(0.675rem + 0.5vw);
   line-height: calc(1rem + 0.675vw);
   font-weight: 400;
-  width: 50vh;
+  width: auto;
 }
 main .container .box .button {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  justify-content: center;
-  -ms-align-items: center;
-  align-items: center;
+  margin: 2rem 0rem;
 }
 
 main .container .box .btn-download a {
@@ -68,7 +52,6 @@ main .container .box .btn-download a {
   color: #f3f3f3;
 }
 main .container .box .btn-github a {
-  margin: 0rem 1rem;
   font-weight: bold;
   font-family: "Lato", sans-serif;
   font-size: calc(0.55rem + 0.5vw);
