@@ -21,7 +21,7 @@ main .container {
   align-items: center; */
 }
 .box {
-  max-width: 980px;
+  max-width: 720px;
   justify-content: center;
   margin: 0 auto;
 }
