@@ -155,7 +155,7 @@ div.code-toolbar > .toolbar > .toolbar-item > button {
 div.code-toolbar > .toolbar > .toolbar-item > a,
 div.code-toolbar > .toolbar > .toolbar-item > button,
 div.code-toolbar > .toolbar > .toolbar-item > span {
-  color: #aaa;
+  color: rgb(107, 107, 107);
   font-size: 0.5em;
   padding: 0 0.5em;
   /* background: rgba(224, 224, 224, 0.2);   */
